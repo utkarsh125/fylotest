@@ -1,0 +1,82 @@
+body, html{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #f1f1f1;
+  font-family: 'Bai Jamjuree', sans-serif;
+  text-align: center;
+  background-size: cover;
+}
+
+h1,h2,h3,h4{
+  font-weight: 600;
+}
+.b1{
+
+}
+.i1{
+  padding-bottom: 7%;
+}
+.hero-image{
+  background-image: url(https://i.imgur.com/5jl1I66.png);
+  background-repeat: no-repeat;
+  position: relative;
+  padding-top: 12%;
+}
+.button-ios{
+  color: #fff;
+  background-color: hsl(171, 66%, 44%);
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 3px #12947f;
+}
+
+.button-mac{
+  color: #fff;
+  background-color: hsl(233, 100%, 69%);
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 3px #4d4c7d;
+}
+.c2{
+  padding-top: 7%;
+  padding-bottom: 5%;
+}
+/* section features */
+.imgdiv{
+  padding: 5% 0%;
+}
+.comp-image{
+  height: 100%;
+  width: 100%;
+  position: relative;
+  right: 10%;
+}
+.featbox{
+  text-align: center;
+  padding: 5% 5%;
+}
+.feat{
+  text-align: left;
+}
+.boxes{
+  padding: 3% 0%;
+}
+/* third section */
+#third{
+  padding: 5% 3%;
+}
+.image2{
+  position: relative;
+  right: 20px;
+  height: 70%;
+  width: 70%;
+}
+.access{
+  padding: 3% 0%;
+}
+#bottom{
+  background-color: black;
+  color: #fff;
+  padding: 5%;
+}
